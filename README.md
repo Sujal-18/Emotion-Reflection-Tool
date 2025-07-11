@@ -45,16 +45,16 @@ git clone [https://github.com/Sujal-18/Emotion-Reflection-Tool.git]
 cd emotion-reflection-tool
 npm install axios  
 ```
-### Frontend Setup
+## Frontend Setup
 ```bash
 npm install
 ```
-# To start the frontend server
+## To start the frontend server
 ```bash
 npm start
 ```
 
-### Backend Setup
+## Backend Setup
 ```bash
 pip install fastapi uvicorn
 ```
