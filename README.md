@@ -58,7 +58,7 @@ npm start
 ```bash
 pip install fastapi uvicorn
 ```
+## To run the server
 ```bash
-# To run the server
 uvicorn main:app --reload --port 8000
 ```
