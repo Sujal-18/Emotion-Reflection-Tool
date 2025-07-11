@@ -1,4 +1,4 @@
-# 🧠 Simple Emotion Reflection Tool
+# Simple Emotion Reflection Tool
 
 A mobile-first full-stack web application that allows users to input a short text reflection and receive a mock emotional analysis response.
 
